@@ -13,6 +13,7 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+      var resume = this.props.resumeBasicInfo.section_name.resume
     }
     console.log(this.props.sharedBasicInfo)
     return (
@@ -23,7 +24,7 @@ class About extends Component {
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
-              <div className="polaroid">
+              <div className="foto">
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
@@ -31,7 +32,7 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <Icon
+                  {/* <Icon
                     icon={angularIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
@@ -42,7 +43,7 @@ class About extends Component {
                   <Icon
                     icon={vueIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  /> */}
                 </span>
               </div>
             </div>
@@ -82,6 +83,8 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <br />
+                    <a href={resume}>My resume</a>
                   </div>
                 </div>
               </div>
