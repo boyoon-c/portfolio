@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/boyoon-chang",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "bo-pic.jpeg"
