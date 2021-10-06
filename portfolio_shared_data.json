@@ -1,0 +1,64 @@
+{
+    "basic_info": {
+      "name": "Boyoon Chang",
+      "titles": [ "Full-stack Developer", "Economist", "Data Analyst", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/boyoon-c",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "bo-pic.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        
+        
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Julia",
+          "class": "devicon-julia-plain",
+          "level": "65"
+        },
+        {
+          "name": "R",
+          "class": "devicon-r-plain",
+          "level": "60"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain"
+        }
+      ]
+    }
+  }
