@@ -3,6 +3,13 @@ import React, { Component } from "react";
 class Footer extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
+      var contacts = this.props.sharedBasicInfo.contacts.map((contact)=>{
+        return(
+          <div>
+            {contact.name}: {contact.body}
+          </div>
+        )
+      })
       var networks = this.props.sharedBasicInfo.social.map(function (network) {
         return (
           <span key={network.name} className="m-4">
@@ -18,7 +25,7 @@ class Footer extends Component {
       <footer>
         <div className="col-md-12">
           <div className="social-links">{networks}</div>
-
+          <div>{contacts}</div>
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
