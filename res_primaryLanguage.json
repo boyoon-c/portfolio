@@ -7,6 +7,7 @@
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience",
+        "contacts": "Contacts",
         "resume": "files/Boyoon_CV_update.pdf"
       }
     },
@@ -16,8 +17,10 @@
         "startDate": "Sep 2021",
         "description": "A web application for scholars and researchers to share their thoughts about articles",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/readuck/ss_landing.png",
+          "images/portfolio/readuck/article_index.png",
+          "images/portfolio/readuck/group_index.png",
+          "images/portfolio/readuck/profile.png"
         ],
         "url": "https://readuck.herokuapp.com",
         "technologies": [
@@ -40,8 +43,9 @@
         "startDate": "Aug 2021",
         "description": "A MERN stack web application for users to choose activities to do in their spare time",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://i.imgur.com/iR6AKfk.png",
+          "https://i.imgur.com/sxb3ZVV.png",
+          "https://i.imgur.com/Jno1sP0.png"
         ],
         "url": "https://boardom.herokuapp.com",
         "technologies": [
@@ -64,8 +68,9 @@
         "startDate": "July 2021",
         "description": "A MEN stack web application for users leave reviews for movies",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/moviegoose/landing_page.jpeg",
+          "images/portfolio/moviegoose/movie_details.jpeg",
+          "images/portfolio/moviegoose/search_results.jpeg"
         ],
         "url": "https://movie-goose.herokuapp.com",
         "technologies": [
@@ -100,8 +105,9 @@
         "startDate": "June 2021",
         "description": "Two users alternate turns to match three cards in a row to score a point, allow them to restart/reshuffle the cards",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/memory/memory-game_ss1.png",
+          "images/portfolio/memory/memory-game_ss2.png",
+          "images/portfolio/memory/memory-game_ss2.png"
         ],
         "url": "https://memory-game-chang.surge.sh",
         "technologies": [
