@@ -15,14 +15,7 @@
         }
       ],
       "contacts":[
-        {
-          "name": "Email",
-          "body": "boyoonchang@gmail.com"
-        },
-        {
-          "name": "Phone",
-          "body": "650-799-3314"
-        },
+        
         {
           "name": "Location",
           "body": "Eugene, OR"

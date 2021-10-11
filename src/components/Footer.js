@@ -25,7 +25,6 @@ class Footer extends Component {
       <footer>
         <div className="col-md-12">
           <div className="social-links">{networks}</div>
-          <div>{contacts}</div>
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
