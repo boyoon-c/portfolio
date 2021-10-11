@@ -23,9 +23,9 @@ class Contact extends Component {
             <span className="text-dark">Contacts</span>
           </h1>
         </div>
-        <div className="col-md-6 text-center contact-info">
+        <div className="contact-info">
+          <a href="mailto: boyoonchang@gmail.com">Send Email Here</a> 
           {contacts}
-          <a href="mailto: boyoonchang@gmail.com">Send Email Here</a> <br/>
         </div>
       </div>
     </section>
