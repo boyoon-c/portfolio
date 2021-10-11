@@ -106,8 +106,8 @@
         "description": "Two users alternate turns to match three cards in a row to score a point, allow them to restart/reshuffle the cards",
         "images": [
           "images/portfolio/memory/memory-game_ss1.png",
-          "images/portfolio/memory/memory-game_ss2.png",
-          "images/portfolio/memory/memory-game_ss2.png"
+          "images/portfolio/memory/memory-game_ss2.jpg",
+          "images/portfolio/memory/memory-game_ss2.jpg"
         ],
         "url": "https://memory-game-chang.surge.sh",
         "technologies": [
